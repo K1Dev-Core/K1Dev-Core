@@ -22,6 +22,3 @@
 
 
 ###
-[![GitHub Streak](https://streak-stats.demolab.com?user=k1dev)](https://git.io/streak-stats)
-
-###
