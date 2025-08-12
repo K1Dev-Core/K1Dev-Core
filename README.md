@@ -8,11 +8,11 @@
 
 ###
 
-<p align="left">King</p>
+<p align="left">Name: King</p>
 
 ###
 
-<h3 align="left">🛠 Language and tools</h3>
+<h3 align="left">🛠 tools</h3>
 
 ###
 
@@ -20,9 +20,6 @@
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg" height="40" alt="linux logo"  />
 </div>
 
-###
-
-<h3 align="left">🔥   My Stats :</h3>
 
 ###
 
