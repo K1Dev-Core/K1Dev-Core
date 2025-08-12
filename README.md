@@ -29,6 +29,5 @@
 
 ###
 
-<img src="https://raw.githubusercontent.com/K1Dev-Core/K1Dev-Core/output/snake.svg" alt="Snake animation" />
 
 ###
