@@ -9,6 +9,7 @@
 ###
 
 <p align="left">Name: King</p>
+[![Mahasarakham University](https://img.shields.io/badge/University-Mahasarakham-blue?logo=google-scholar&logoColor=white)](https://www.msu.ac.th)
 
 ###
 
