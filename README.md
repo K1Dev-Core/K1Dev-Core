@@ -1,28 +1,18 @@
 <div align="center">
-  <img src="https://visitor-badge.laobi.icu/badge?page_id=K1Dev-Core.K1Dev-Core" />
+  
+![visitors](https://komarev.com/ghpvc/?username=K1Dev-Core&color=blueviolet&style=flat-square)
+
+</div>
+
+###
+<div align="center">
+
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?size=28&color=00FF00&center=true&vCenter=true&width=700&lines=Hi+%F0%9F%91%8B%2C+I'm+Kings+aka+Hex+%2F+K1GOD;Computer+Science+Student+at+Mahasarakham+University;Cybersecurity+Enthusiast+%F0%9F%94%90;CTF+Player+%F0%9F%9A%A7;Web+%26+Software+Developer+%F0%9F%92%BB)](https://git.io/typing-svg)
+
 </div>
 
 ###
 
-<h1 align="center">Hi 👋, I’m Kings — also known as Hex / K1GOD</h1>
-
-###
-
-<p align="center">
-  Computer Science student at  
-  <a href="https://www.msu.ac.th" target="_blank">
-    <img src="https://img.shields.io/badge/University-Mahasarakham-blue?logo=google-scholar&logoColor=white" />
-  </a>
-</p>
-
-###
-
-<p align="center">
-  💻 Learning Web Development, Software Engineering, and Cybersecurity. <br>
-  🚀 Sharing projects, skills, and my journey in tech.
-</p>
-
-###
 
 <h3 align="left">🛠 Tech Stack (and currently learning)</h3>
 
@@ -61,3 +51,4 @@
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" height="40" alt="github logo" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" height="40" alt="vscode logo" />
 </div>
+
